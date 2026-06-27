@@ -13,7 +13,7 @@ It is a responsive Netflix Homepage Clone built using HTML, CSS, and JavaScript.
 
 🌐 Live Website:https://shruk6587-sketch.github.io/netflix-internspark-task4/
 
-💻 GitHub Repository: https://github.com/shruk6587-sketch/internSpark_task4
+💻 GitHub Repository: https://github.com/shruk6587-sketch/netflix-internspark-task4.git
 
 ---
 
