@@ -41,3 +41,4 @@ It is a responsive Netflix Homepage Clone built using HTML, CSS, and JavaScript.
 - "index.html" – Structure of the Netflix homepage
 - "style.css" – Styling and responsive design
 - "script.js" – JavaScript functionality and interactions
+- 
